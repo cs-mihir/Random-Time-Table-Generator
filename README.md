@@ -1,5 +1,5 @@
 ## Random-Time-Table-Generator
-A Program which generates a random time table every time according to constraints of maximum lectures,Faculty's availability,Student Groups' availability,Classroom's capacity and availability.
+A Program which generates a random time table every time according to constraints of maximum lectures,Faculty's availability,Student Groups' availability,Classroom's capacity and availability.<br>
 This program meets following specifications:<br>
 1) At same time not more than 1 subjects of same professor can be available<br>
 2) In an academic week of 5 days for a subject maximum of 3 hours should be allowed<br>
